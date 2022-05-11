@@ -1,8 +1,5 @@
 $(function () {
-  $('#open').on('click', function() {
-    $('#block').slideDown('normal');
-  });
-  $('#close').on('click', function() {
-    $('#block').slideUp('normal');
+  $('.box1').mouseover(function() {
+    $('.box1').css({'background-color':'#0000FF'});
   });
 });

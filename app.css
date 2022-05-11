@@ -1,5 +1,5 @@
-#block {
-  background-color: pink;
+.box1 {
+  background-color: #FF0000;
   width: 200px;
-  height: 100px;
+  height: 200px;
 }
